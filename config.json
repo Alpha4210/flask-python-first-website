@@ -1,0 +1,22 @@
+{
+"params":
+{
+    "local_server":"True",
+    "local_uri":"mysql://root:''@localhost/alpha",
+    "prod_uri":"mysql://root:@localhost/alpha",
+    "fb_url":"https://www.facebook.com/alpha",
+    "tw_url":"https://www.twitter.com/alpha",
+    "gh_url":"https://www.github.com/alpha",
+    "blog_name":"Alpha",
+    "tagline":"Just another tech blog",
+    "gmail_user":"alpha.gamer.2427@gmail.com",
+    "gmail_password":"cops sqrn pzsr wwvy",
+    "about_text":"Hi I am Parth",
+    "no_of_posts": 1,
+    "login_image":"login.svg",
+    "admin_user":"parth",
+    "admin_password":"alpha42210",
+    "upload_location":"C:/Users/hp/OneDrive/Desktop/All my codesssss/flask-python"
+}
+    
+}
